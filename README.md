@@ -13,3 +13,9 @@
 
 - Removed all the unused function
 - Added surpriseBtn function which can change the name color
+
+## Group member
+
+- Amit Porje
+- Marta Fernandez
+- Dennis Shen
