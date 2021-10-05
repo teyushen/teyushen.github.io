@@ -1,4 +1,4 @@
-# teyushen.github.io
+# Lab 3
 
 ### Modification in `index.html`
 
